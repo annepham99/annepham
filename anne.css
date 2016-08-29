@@ -1,0 +1,43 @@
+body{
+	background-image: url("background.png");
+}
+
+.socialmedia{
+	font-family: "Questrial";
+	/*border: 2px solid black;*/
+}
+
+h3{
+	background-color: #252C2E;
+	color: white;
+}
+
+a{
+	font-family: "Questrial";
+	font-size: 15px;
+}
+
+#fb:hover{
+	width: 75px;
+	height: 75px;
+}
+
+#insta:hover{
+	width: 75px;
+	height: 75px;
+}
+
+#linkedin:hover{
+	width: 75px;
+	height: 75px;
+}
+
+#youtube:hover{
+	width: 75px;
+	height: 75px;
+}
+
+#twitter:hover{
+	width: 75px;
+	height: 75px;
+}
